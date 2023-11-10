@@ -3,6 +3,6 @@
 docker-test
 
 
-its ngnix docker images listening on port 80 .
+its ngnix docker image listening on port 80 .
 
 pushed to shansris dockerhub with tag t2
