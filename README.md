@@ -1,6 +1,6 @@
 # docker-test
 
-docker-test 
+docker-test
 
 
 its ngnix docker image listening on port 80 .
